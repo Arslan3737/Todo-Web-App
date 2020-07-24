@@ -1,0 +1,62 @@
+
+body{
+   /* background: linear-gradient(to bottom right, #ffecd2 0%, #fcb69f );
+     #ffecd2 → #fcb69f */
+     background-image: url(images/Witching\ Hour.jpg);
+}
+#main{
+min-height: 350px;
+width: 250px;
+/* background-color: #F95700FF; */
+background-image: url(images/Burning\ Orange.jpg);
+margin:7% 0% 0% 40% ;
+text-align: center;
+}
+h3{
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+    padding-top: 5px;
+}
+
+#todo-item{
+ margin-top: 10px;
+ height: 22px;
+ width: 220px;
+
+}
+
+button{
+    margin-top: 10px;
+    background-color: white;
+    color: #F95700FF;
+    font-weight: bold;
+    height: 25PX;
+    width: 80px;
+}
+button:hover{
+    background-color: #F95700FF;
+    color: white;
+}
+#list{
+    margin-left: -18px;
+    font-size: 18px;
+    list-style: lower-alpha;
+    color: white;
+    text-decoration: underline;
+}
+.btn{
+   
+    margin-left: 30px;
+    width: 28px;
+    background-image: url(images/del-Btn.png);
+    background-repeat: no-repeat;
+    
+}
+.btnn{
+   
+    margin-left: 7px;
+    width: 28px;
+    background-image: url(images/edit-Btn.png);
+    background-repeat: no-repeat;
+}
